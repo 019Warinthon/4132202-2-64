@@ -1,6 +1,6 @@
 //es6-object.js
 let preson = {
-    name: "Phophrai",
+    name: "Warinthon",
     age:20,
     eyecolor: "black",
     fullname: () => {
